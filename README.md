@@ -1,5 +1,5 @@
 # International Completeness of Death Registration 2015-2019
-This repository contains inputs and outputs of the paper: _International Completeness of Death Registration 2015-2019_, which contains the most up to date estimates of the completness of death registration in 139 countries around the world. 
+This repository contains inputs and outputs of the paper: _International Completeness of Death Registration 2015-2019_, which contains the most up to date estimates of the completness of death registration in 147 countries around the world. 
 
 Contrbuitions and suggestions of information and data are welcome and will be credited.
 
@@ -15,3 +15,4 @@ Contrbuitions and suggestions of information and data are welcome and will be cr
 * `expected_gbd`: The number of deaths expected to occur for the country-year from [Global Burden of Disease 2019](http://ghdx.healthdata.org/gbd-results-tool).
 * `expected_deaths`: The mean of `expected_wpp` and `expected_gbd`.
 * `death_comp`: The estimated completness rate, ranges from 0 to 100. Derived as `reg_deaths` divided by `expected_deaths`. See paper for details.
+* `source`: Whether the source is WMD (World Mortaity Dataset) or other.
