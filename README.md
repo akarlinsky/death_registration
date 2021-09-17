@@ -1,6 +1,8 @@
 # International Completeness of Death Registration 2015-2019
 This repository contains inputs and outputs of the paper: _International Completeness of Death Registration 2015-2019_, which contains the most up to date estimates of the completness of death registration in 147 countries around the world. 
 
+Paper and sources are detailed in (preprint): https://doi.org/10.1101/2021.08.12.21261978
+
 Contrbuitions and suggestions of information and data are welcome and will be credited.
 
 ## Contents
