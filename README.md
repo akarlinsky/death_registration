@@ -17,6 +17,7 @@ Contrbuitions and suggestions of information and data are welcome and will be cr
 * `reg_deaths`: The number of deaths registered in the vital registration system for the country-year. NA denotes no registerd deaths data was obtained.
 * `expected_wpp`: The number of deaths expected to occur for the country-year from [World Population Prospects 2019](https://population.un.org/wpp/).
 * `expected_gbd`: The number of deaths expected to occur for the country-year from [Global Burden of Disease 2019](http://ghdx.healthdata.org/gbd-results-tool).
-* `expected_deaths`: The mean of `expected_wpp` and `expected_gbd`.
+* `expected_ghe`: The number of deaths expected to occur for the country-year from [Global Health Estimates 2019](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates).
+* `expected_deaths`: The mean of `expected_wpp`, `expected_gbd` and `expected_ghe`.
 * `death_comp`: The estimated completness rate, ranges from 0 to 100. Derived as `reg_deaths` divided by `expected_deaths`. See paper for details.
 * `source`: Whether the source is WMD (World Mortaity Dataset) or other.
