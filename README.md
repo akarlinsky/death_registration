@@ -5,6 +5,8 @@ Paper and sources are detailed in (preprint): https://doi.org/10.1101/2021.08.12
 
 Contrbuitions and suggestions of information and data are welcome and will be credited.
 
+![ICDR_coverage](comp_rate_map_title.png)
+
 ## Contents
 
 ### 
