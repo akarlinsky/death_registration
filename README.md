@@ -20,4 +20,4 @@ Contrbuitions and suggestions of information and data are welcome and will be cr
 * `expected_ghe`: The number of deaths expected to occur for the country-year from [Global Health Estimates 2019](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates).
 * `expected_deaths`: The mean of `expected_wpp`, `expected_gbd` and `expected_ghe`.
 * `death_comp`: The estimated completness rate, ranges from 0 to 100. Derived as `reg_deaths` divided by `expected_deaths`. See paper for details.
-* `source`: Whether the source is WMD (World Mortaity Dataset) or other.
+* `source`: Whether the source is WMD (World Mortaity Dataset) or other. See _References_ in paper for detailed sources for countries not from WMD.
