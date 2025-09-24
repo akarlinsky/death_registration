@@ -1,5 +1,5 @@
 # International Completeness of Death Registration
-This repository contains inputs and outputs of the paper: [International completeness of death registration](https://doi.org/10.4054/DemRes.2024.50.38), which contains the most up to date estimates of the completeness of death registration in 195 countries around the world. 
+This repository contains inputs and outputs of the paper: [International completeness of death registration](https://doi.org/10.4054/DemRes.2024.50.38), which contains the most up to date estimates of the completeness of death registration in 196 countries around the world. 
 
 If you use this data, please cite it as:
 Karlinsky 2024, International completeness of death registration, _Demographic Research_ https://doi.org/10.4054/DemRes.2024.50.38
